@@ -1,84 +1,56 @@
-# Hi 👋, I'm Abdul Jelil
+# 👋 Hi, I'm Abdul Jelil
 
 ### 💻 Frontend Developer | React Developer
 
-I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications. I enjoy transforming ideas into clean, interactive, and scalable digital experiences using **React, JavaScript, HTML, and CSS**.
+I build modern, responsive, and user-friendly web applications with a focus on clean UI, reusable components, and maintainable code.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Frontend Developer specializing in **React**
-* ⚛️ Building modern web applications with **React + Vite**
-* 🎨 Creating clean, responsive, and user-friendly interfaces
+* ⚛️ Frontend Developer specializing in **React**
+* 🟨 Strong focus on **JavaScript**
+* 🎨 Passionate about modern and responsive UI
+* 🧩 Building reusable and maintainable components
 * 🔌 Working with REST APIs and frontend-backend integration
-* 🧩 Focused on reusable and maintainable components
+* 🚀 Interested in performance, scalability, and clean architecture
 * 🌱 Continuously improving my software engineering skills
-* 🔥 Interested in Open Source and collaborative development
-* 🎯 Working toward becoming a **Full-Stack Software Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-</p>
-
-### Tools & Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github" />
 </p>
 
 ---
 
-## 💡 What I Build
-
-* ⚛️ React Web Applications
-* 📱 Responsive Websites
-* 🎨 Modern User Interfaces
-* 🔐 Authentication Interfaces
-* 📊 Admin Dashboards
-* 🔎 Search & Filter Systems
-* 🔌 REST API Integrations
-* 📅 Interactive Applications
-
----
-
-## 📂 Featured Projects
+## 📌 Featured Projects
 
 ### 💼 Job Portal
 
-A modern job portal with a responsive interface for browsing, searching, and managing job opportunities.
+Modern job platform with job search, filtering, authentication, and responsive UI.
 
-**Tech:** React, JavaScript, CSS, REST API
-
----
+**React • JavaScript • REST API**
 
 ### 💬 Chat Application
 
-A modern messaging application interface with user profiles, conversations, and responsive chat functionality.
+Responsive messaging application with conversations, contacts, profiles, and modern chat UI.
 
-**Tech:** React, JavaScript, CSS
-
----
+**React • JavaScript • CSS**
 
 ### 📊 Admin Dashboard
 
-A responsive dashboard with modern navigation, statistics, reusable components, and data visualization.
+Modern dashboard with statistics, reusable components, navigation, and responsive layouts.
 
-**Tech:** React, JavaScript, CSS
+**React • JavaScript • CSS**
 
----
+### 🛒 E-Commerce Application
 
-### 📅 Calendar Application
+Responsive e-commerce interface with products, search, filtering, shopping cart, and modern UI.
 
-An interactive calendar application with a clean and responsive user interface.
-
-**Tech:** React, JavaScript, CSS
+**React • JavaScript • CSS**
 
 ---
 
@@ -96,32 +68,7 @@ An interactive calendar application with a clean and responsive user interface.
 
 ---
 
-## 📚 Currently Working With
-
-* ⚛️ React
-* 🟨 JavaScript
-* 🎨 CSS & Responsive Design
-* ⚡ Vite
-* 🔌 REST APIs
-* 🧩 Component Architecture
-* 🔐 Authentication
-* 🚀 Deployment & CI/CD
-
----
-
-## 🤝 Open Source & Collaboration
-
-I'm interested in collaborating on:
-
-* React projects
-* Frontend applications
-* Open-source projects
-* Web development projects
-* Full-stack applications
-
----
-
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
 <p>
   <a href="https://github.com/abdu4713">
@@ -133,4 +80,4 @@ I'm interested in collaborating on:
 
 ### ⭐ Thanks for visiting my profile!
 
-**Building modern experiences with React. 🚀**
+**Building modern web experiences with React. 🚀**
