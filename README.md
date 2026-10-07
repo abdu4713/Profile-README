@@ -1,60 +1,43 @@
-# 👋 Hi, I'm Abdul Jelil
+# Abdul Jelil
 
-### 💻 Frontend Developer | React Developer
+### Frontend Developer
 
-I build modern, responsive, and user-friendly web applications with a focus on clean UI, reusable components, and maintainable code.
-
----
-
-## 🚀 About Me
-
-* ⚛️ Frontend Developer specializing in **React**
-* 🟨 Strong focus on **JavaScript**
-* 🎨 Passionate about modern and responsive UI
-* 🧩 Building reusable and maintainable components
-* 🔌 Working with REST APIs and frontend-backend integration
-* 🚀 Interested in performance, scalability, and clean architecture
-* 🌱 Continuously improving my software engineering skills
+> Building modern web experiences with React and JavaScript.
 
 ---
 
-## 🛠️ Tech Stack
+### 👨‍💻 About
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github" />
-</p>
+I'm a Frontend Developer focused on creating **fast, responsive, and intuitive web applications**.
 
----
-
-## 📌 Featured Projects
-
-### 💼 Job Portal
-
-Modern job platform with job search, filtering, authentication, and responsive UI.
-
-**React • JavaScript • REST API**
-
-### 💬 Chat Application
-
-Responsive messaging application with conversations, contacts, profiles, and modern chat UI.
-
-**React • JavaScript • CSS**
-
-### 📊 Admin Dashboard
-
-Modern dashboard with statistics, reusable components, navigation, and responsive layouts.
-
-**React • JavaScript • CSS**
-
-### 🛒 E-Commerce Application
-
-Responsive e-commerce interface with products, search, filtering, shopping cart, and modern UI.
-
-**React • JavaScript • CSS**
+My focus is on writing clean code, building reusable components, and creating interfaces that provide a great user experience.
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Tech Stack
+
+**Frontend**
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Vite` · `Tailwind CSS`
+
+**Tools**
+
+`Git` · `GitHub` · `VS Code` · `npm`
+
+---
+
+### 🚀 Projects
+
+| Project                 | Description                                                |
+| ----------------------- | ---------------------------------------------------------- |
+| 💼 **Job Portal**       | Job discovery, search, filtering and application interface |
+| 💬 **Chat Application** | Modern messaging and conversation interface                |
+| 📊 **Admin Dashboard**  | Responsive dashboard and management interface              |
+| 🛒 **E-Commerce**       | Product browsing, search, filtering and cart               |
+
+---
+
+### 📈 GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdu4713\&show_icons=true\&theme=tokyonight)
 
@@ -62,22 +45,10 @@ Responsive e-commerce interface with products, search, filtering, shopping cart,
 
 ---
 
-## 🔥 GitHub Streak
+### 📫 Contact
 
-![GitHub Streak](https://streak-stats.demolab.com?user=abdu4713\&theme=tokyonight)
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://github.com/abdu4713">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[GitHub](https://github.com/abdu4713)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
-
-**Building modern web experiences with React. 🚀**
+**Open to building great things. 🚀**
